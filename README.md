@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
@@ -27,8 +27,6 @@ You can start developing by editing the files inside the **app** directory. This
 
 ## Get a fresh project
 
-When you're ready, run:
-
 ```bash
 npm run reset-project
 ```
@@ -48,3 +46,5 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## it was a great experience to learn expo from here `https://docs.expo.dev/tutorial/introduction/`

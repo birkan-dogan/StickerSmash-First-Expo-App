@@ -13,13 +13,15 @@ export default function TabsLayout() {
         headerTintColor: "#fff",
         tabBarStyle: {
           backgroundColor: "#25292e",
+          paddingBottom: 6,
+          paddingTop: 4,
         },
       }}
     >
       <Tabs.Screen
-        name="index"
+        name="Home"
         options={{
-          headerTitle: "StickerSmash",
+          headerTitle: "Home",
           tabBarIcon: ({ focused, color }) => (
             <Ionicons
               name={focused ? "home-sharp" : "home-outline"}
@@ -33,9 +35,9 @@ export default function TabsLayout() {
       />
 
       <Tabs.Screen
-        name="about"
+        name="Contact"
         options={{
-          headerTitle: "About",
+          headerTitle: "Contact",
           tabBarIcon: ({ focused, color }) => (
             <Ionicons
               name={
